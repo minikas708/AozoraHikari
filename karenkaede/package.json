@@ -1,6 +1,6 @@
 {
   "name": "karenkaede",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "private": false,
   "scripts": {
     "dev": "next dev",
